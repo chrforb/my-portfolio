@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Personal Portfolio Website
 
-## Getting Started
+A personal portfolio website built to showcase my projects, technical skills, and research experience in web development, data analytics, and human-computer interaction.
 
-First, run the development server:
+## Technologies
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* Multi-page portfolio structure
+* Project showcase pages
+* Resume section
+* Responsive design
+* Modern component-based architecture
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Featured Projects
 
-## Learn More
+### European Soccer Analytics Research
 
-To learn more about Next.js, take a look at the following resources:
+Statistical analysis and visualization of 25,000+ European soccer matches to identify tactical and momentum-based performance trends.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Hotel Booking System API
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+RESTful API and relational database project built using PHP, Slim Framework, and MySQL.
 
-## Deploy on Vercel
+### Mental Wellness HCI Research
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+User-centered research project focused on reducing friction and improving accessibility in wellness-oriented experiences.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Current Status
+
+Actively under development and continuously updated with new projects and improvements.
+
+## Author
+
+Christian Forbes
+
+Indiana University Indianapolis
+B.S. Informatics | Human-Computer Interaction Certificate
